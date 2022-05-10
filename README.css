@@ -1,5 +1,5 @@
 .label-primary, .label-warning {
-    background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%)!important;
+    background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%)!important;
     border-radius: 3px!important;
     border-left: .5px solid#11284F!important;
     border-right: .5px solid#11284F!important;
@@ -9,7 +9,7 @@
 }
 
 .btn-primary {
-        background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
+        background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%);
         border: 1px solid rgb(81, 72, 72)!important;
 
 }        
@@ -20,7 +20,7 @@ ul.nav.nav-tabs.fl li .fa-user:before,.fa-user-plus:before {
 }
 
 ul.nav.nav-tabs.fl li a:hover {
-    background-image: radial-gradient(farthest-corner, rgb(197, 109, 103) 0, rgb(196, 104, 98) 49%, rgb(195, 103, 96) 50%, rgb(149, 49, 43) 100%);
+    background-image: radial-gradient(farthest-corner, rgb(17, 40, 79) 0, rgb(17, 40, 79) 49%, rgb(17, 40, 79) 50%, rgb(17, 40, 79) 100%);
 }
 
 ul.nav.nav-tabs.fl li {
@@ -34,7 +34,7 @@ ul.nav.nav-tabs.fl li {
 
 ul.nav.nav-tabs.fl li a {
     background-color: #11284F!important;
-    background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
+    background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%);
     color: #fff;
     margin: auto;
     text-align: center;
@@ -53,7 +53,7 @@ ul.nav.nav-tabs {
     margin-top: -5px!important;
     margin-bottom: 4px!important;
     border-radius: 3px;
-    background-color: #fff!important;
+    background-color: #11284F!important;
     border: #11284F!important;
     margin-left: 34px
 }
@@ -66,7 +66,7 @@ div#l1.grow.break.tab-pane.fade.active.in {
     margin-left: 2px!important;
     height: 99px;
     background-color: #11284F;
-    background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
+    background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%);
     border-radius: 3px;
     border: 1px solid #11284F;
 }
@@ -85,13 +85,13 @@ div#l2, div#l3 {
     height: 99px;
     border-radius: 3px;
     background-color: #11284F;
-    background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
+    background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%);
 }
 
 
 label.fl.label.loginstat {
     background-color: #11284F;
-    background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
+    background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%);
     float: left!important;
     border-radius: 3px!important;
     top: 0;
@@ -108,7 +108,7 @@ label.fl.label.loginstat {
     margin-bottom: 2px;
     margin-top: 4px;
     font-family: 'El Messiri',FontAwesome!important;
-    background-image: radial-gradient(farthest-corner, rgb(140, 39, 32) 0, rgb(140, 39, 32) 49%, rgb(140, 39, 32) 50%, rgb(213, 123, 117) 100%);
+    background-image: radial-gradient(farthest-corner, rgb(17, 40, 79) 0, rgb(17, 40, 79) 49%, rgb(17, 40, 79) 50%, rgb(213, 123, 117) 100%);
     color: #11284F;
     border-radius: 0px;
     border-bottom: 1px solid #11284F;
@@ -133,7 +133,7 @@ label.fl.label.loginstat {
 #des4 {
     font-family: 'El Messiri',FontAwesome!important;
     color: #11284F!important;
-    background-image: radial-gradient(farthest-corner, rgb(224, 49, 49) 0, rgb(224, 49, 49) 49%, rgb(224, 49, 49) 50%, rgb(253, 169, 169) 100%);
+    background-image: radial-gradient(farthest-corner, rgb(17, 40, 79) 0, rgb(17, 40, 79) 49%, rgb(17, 40, 79) 50%, rgb(17, 40, 79) 100%);
     font-size: 13px!important;
     text-align: center!important;
 }
@@ -237,7 +237,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: #11284F;
     border: 71px none #fff;
     border-radius: 31px;
-    background-image: radial-gradient(farthest-corner, rgb(141, 40, 34) 0, rgb(140, 38, 31) 49%, rgb(142, 42, 35) 50%, rgb(245, 245, 245) 100%)!important;
+    background-image: radial-gradient(farthest-corner, rgb(17, 40, 79) 0, rgb(17, 40, 79) 49%, rgb(17, 40, 79) 50%, rgb(17, 40, 79) 100%)!important;
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:hover {
@@ -267,7 +267,7 @@ div#tlogins ::-webkit-scrollbar-corner {
 }
 
 div#tlogins span.corner.u-topic.dots {
-    background-image: linear-gradient(90deg, rgba(249, 249, 249, 0.46) 0, rgba(249, 249, 249, 0.32) 10%, rgba(245, 24, 8, 0) 51%, rgba(251, 250, 250, 0.35) 89%, rgba(247, 246, 246, 0.48) 100%)!important;
+    background-image: linear-gradient(90deg, rgba(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgba(17, 40, 79) 100%)!important;
     float: left;
     border-radius: 3px!important;
     max-width: 100%!important;
@@ -297,7 +297,7 @@ div#tlogins .fl.mini.u-msg {
 
 button.btn.fr.btn-success.fa.fa-refresh {
     background-color: #11284F;
-    background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
+    background-image: linear-gradient(90deg, rgb(17, 40, 79) 0, rgba(17, 40, 79) 10%, rgba(17, 40, 79) 51%, rgba(17, 40, 79) 89%, rgb(17, 40, 79) 100%);
     margin-top: 1px!important;
     border: 1px solid rgb(111, 21, 14)!important;
 }
