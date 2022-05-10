@@ -33,7 +33,7 @@ ul.nav.nav-tabs.fl li {
 }
 
 ul.nav.nav-tabs.fl li a {
-    background-color: #8c2720!important;
+    background-color: #11284F!important;
     background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
     color: #fff;
     margin: auto;
@@ -45,7 +45,7 @@ ul.nav.nav-tabs.fl li a {
     padding: 2px 0!important;
     font-family: 'El Messiri',FontAwesome!important;
     margin-right: 38px;
-    border: 1px solid #4c4b4b;
+    border: 1px solid #11284F;
 }
 
 ul.nav.nav-tabs {
@@ -54,7 +54,7 @@ ul.nav.nav-tabs {
     margin-bottom: 4px!important;
     border-radius: 3px;
     background-color: #fff!important;
-    border: #ff000000!important;
+    border: #11284F!important;
     margin-left: 34px
 }
 
@@ -65,10 +65,10 @@ div#l1.grow.break.tab-pane.fade.active.in {
     margin-top: -2.8px!important;
     margin-left: 2px!important;
     height: 99px;
-    background-color: #8c261f;
+    background-color: #11284F;
     background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
     border-radius: 3px;
-    border: 1px solid #4c4b4b;
+    border: 1px solid #11284F;
 }
 
 
@@ -109,7 +109,7 @@ label.fl.label.loginstat {
     margin-top: 4px;
     font-family: 'El Messiri',FontAwesome!important;
     background-image: radial-gradient(farthest-corner, rgb(140, 39, 32) 0, rgb(140, 39, 32) 49%, rgb(140, 39, 32) 50%, rgb(213, 123, 117) 100%);
-    color: #f9f9f9;
+    color: #11284F;
     border-radius: 0px;
     border-bottom: 1px solid #11284F;
     border-top: 1px solid #11284F;
@@ -132,7 +132,7 @@ label.fl.label.loginstat {
 
 #des4 {
     font-family: 'El Messiri',FontAwesome!important;
-    color: #f9f9f9!important;
+    color: #11284F!important;
     background-image: radial-gradient(farthest-corner, rgb(224, 49, 49) 0, rgb(224, 49, 49) 49%, rgb(224, 49, 49) 50%, rgb(253, 169, 169) 100%);
     font-size: 13px!important;
     text-align: center!important;
@@ -186,10 +186,10 @@ div#l2 input#u2, div#l3 input#u3 {
 
 
 div#l2 input#pass1, div#l3 input#pass2 {
-    border-left: 1px solid#c27ba0!important;
-    border-right: 1px solid#c27ba0!important;
-    border-top: 1px solid#9d778b!important;
-    border-bottom: 1px solid#9d778b!important;
+    border-left: 1px solid#11284F!important;
+    border-right: 1px solid#11284F!important;
+    border-top: 1px solid#11284F!important;
+    border-bottom: 1px solid#11284F!important;
     height: 30px;
     width: 105%;
     padding: 0!important;
@@ -212,7 +212,7 @@ div#l2 button.btn.btn-primary, div#l3 button.btn.btn-primary {
 }
 
 .fa.fa-user-secret {
-    color: #b40666;
+    color: #11284F;
     margin-top: 4px!important;
 }
 
@@ -234,18 +234,18 @@ div#tlogins ::-webkit-scrollbar-button {
 }
 
 div#tlogins ::-webkit-scrollbar-thumb {
-    background: #61616147;
+    background: #11284F;
     border: 71px none #fff;
     border-radius: 31px;
     background-image: radial-gradient(farthest-corner, rgb(141, 40, 34) 0, rgb(140, 38, 31) 49%, rgb(142, 42, 35) 50%, rgb(245, 245, 245) 100%)!important;
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:hover {
-    background: #61616147
+    background: #11284F
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:active {
-    background: #61616147
+    background: #11284F
 }
 
 div#tlogins ::-webkit-scrollbar-track {
@@ -255,11 +255,11 @@ div#tlogins ::-webkit-scrollbar-track {
 }
 
 div#tlogins ::-webkit-scrollbar-track:hover {
-    background: #61616147
+    background: #11284F
 }
 
 div#tlogins ::-webkit-scrollbar-track:active {
-    background: #61616147
+    background: #11284F
 }
 
 div#tlogins ::-webkit-scrollbar-corner {
