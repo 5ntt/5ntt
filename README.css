@@ -171,8 +171,8 @@ div#l1 button.btn.btn-primary {
 
 div#l2 input#u2, div#l3 input#u3 {
     font-family: 'El Messiri',FontAwesome!important;
-    border-left: 1px solid#c27ba0!important;
-    border-right: 1px solid#c27ba0!important;
+    border-left: 1px solid#11284F!important;
+    border-right: 1px solid#11284F!important;
     border-top: 1px solid#11284F!important;
     border-bottom: 1px solid#11284F!important;
     width: 105%;
@@ -296,7 +296,7 @@ div#tlogins .fl.mini.u-msg {
 }
 
 button.btn.fr.btn-success.fa.fa-refresh {
-    background-color: #8c261f;
+    background-color: #11284F;
     background-image: linear-gradient(90deg, rgb(192, 99, 92) 0, rgba(190, 97, 90, 0.5) 10%, rgba(203, 96, 179, 0) 51%, rgba(197, 105, 98, 0.5) 89%, rgb(197, 104, 98) 100%);
     margin-top: 1px!important;
     border: 1px solid rgb(111, 21, 14)!important;
